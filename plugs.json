@@ -3,7 +3,7 @@
         "name":"Shell测试",
         "explain":"测试Shell插件是否正常",
         "script_language":"Shell",
-        "script_url":"https://raw.githubusercontent.com/injetlee/Python/master/douban_book.py",
+        "script_url":"https://raw.githubusercontent.com/yehuio/Coot-Plugs/master/libs/shellTest/run.py",
         "version":"1.0",
         "author":"天才小三斤",
         "github":"https://github.com/cteams/Thief-Book"
@@ -12,8 +12,7 @@
         "name":"Python测试",
         "explain":"测试Python插件是否正常",
         "script_language":"Python",
-        "script_url":"https://raw.githubusercontent.com/fengyuhetao/shell/master/mysql%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%90%91%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD%E6%8F%92%E5%85%A5%E6%95%B0%E6%8D%AE.sh",
-        "version":"2.0",
+        "script_url":"https://raw.githubusercontent.com/yehuio/Coot-Plugs/master/libs/pythonTest/run.py",
         "author":"三斤大神",
         "github":"https://github.com/cteams/Thief-Book"
     }

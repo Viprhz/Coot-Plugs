@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+.idea
+.vendor
+.DS_Store
+*/.DS_Store
+*/.idea/%
+*/.vendor/%
