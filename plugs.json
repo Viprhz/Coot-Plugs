@@ -3,7 +3,7 @@
         "name":"Shell测试",
         "explain":"测试Shell插件是否正常",
         "script_language":"Shell",
-        "script_url":"https://raw.githubusercontent.com/yehuio/Coot-Plugs/master/libs/shellTest/run.py",
+        "script_url":"https://raw.githubusercontent.com/yehuio/Coot-Plugs/master/libs/shellTest/run.sh",
         "version":"1.0",
         "author":"天才小三斤",
         "github":"https://github.com/cteams/Thief-Book"
