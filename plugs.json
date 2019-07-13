@@ -13,6 +13,7 @@
         "explain":"测试Python插件是否正常",
         "script_language":"Python",
         "script_url":"https://raw.githubusercontent.com/yehuio/Coot-Plugs/master/libs/pythonTest/run.py",
+        "version":"1.1",
         "author":"三斤大神",
         "github":"https://github.com/cteams/Thief-Book"
     }
