@@ -3,7 +3,7 @@
         "name":"上班打卡",
         "explain":"钉钉自动上班打卡",
         "script_language":"Python",
-        "script_url":"https://raw.githubusercontent.com/cteams/Thief-Book/master/src/index.ejs",
+        "script_url":"https://raw.githubusercontent.com/injetlee/Python/master/douban_book.py",
         "version":"1.1",
         "author":"天才小三斤",
         "github":"https://github.com/cteams/Thief-Book"
@@ -12,7 +12,7 @@
         "name":"下班提醒",
         "explain":"专门为上班人员特做的上班提醒",
         "script_language":"Shell",
-        "script_url":"https://raw.githubusercontent.com/cteams/Thief-Book/master/src/index.ejs",
+        "script_url":"https://raw.githubusercontent.com/fengyuhetao/shell/master/mysql%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%90%91%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD%E6%8F%92%E5%85%A5%E6%95%B0%E6%8D%AE.sh",
         "version":"2.0",
         "author":"三斤大神",
         "github":"https://github.com/cteams/Thief-Book"
