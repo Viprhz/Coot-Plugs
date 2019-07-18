@@ -60,4 +60,13 @@
     "version": "1.0",
     "author": "Coot",
     "github": "https://github.com/yehuio/Coot-Plugs"
+},
+{
+    "name": "星座运势",
+    "explain": "推送今日星座运势",
+    "script_language": "Python",
+    "script_url": "https://raw.githubusercontent.com/yehuio/Coot-Plugs/master/libs/getXzys/run.py",
+    "version": "1.0",
+    "author": "Coot",
+    "github": "https://github.com/yehuio/Coot-Plugs"
 }]
