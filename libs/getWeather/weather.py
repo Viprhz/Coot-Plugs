@@ -18,6 +18,7 @@ def api(url):
     return data.json()
 
 def sendweather(city):
+    # 需要把 {yourKEY} 替换为你自己申请的 API KEY，注册地址：https://dev.heweather.com
     url = 'https://free-api.heweather.com/s6/weather/forecast?location='+city+'&key={yourKEY}'
     PMurl = 'https://free-api.heweather.com/s6/air/now?parameters&location='+city+'&key={yourKEY}'
     lifeurl = 'https://free-api.heweather.com/s6/weather/lifestyle?location='+city+'&key={yourKEY}'
